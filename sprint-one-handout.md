@@ -35,7 +35,7 @@ To help you with these, we have put together a checklist that will help you get 
 - ✅ Set up a Github Organization.
 - ✅ Create a project repository for your application code.
 - ✅ Keep the repository public for when you will integrate SonarCloud.
-- [ ] Ensure all team members have access.
+- ✅ Ensure all team members have access.
 - [ ] Add your coaches to your github organization.
   - [ ] Give them `maintain` access :) 
 - [ ] Setup Branch Protection Rules on your Github Repo.
