@@ -55,17 +55,17 @@ A SCRUM board is your holy grail for implementing a collaborative workflow. As y
   - ✅ In Development
   - ✅ In Review
   - ✅ Done in “Sprint #X”
-- [ ] Add Properties For tickets on the board - 
-  - [ ] Sprint (iteration)
-  - [ ] Task Type (e.g., Frontend, Backend, Figma, etc.)
-  - [ ] Nature (e.g., User Story, Sprint Task)
+-  ✅ Add Properties For tickets on the board - 
+  -  ✅ Sprint (iteration)
+  -  ✅ Task Type (e.g., Frontend, Backend, Figma, etc.)
+  -  ✅ Nature (e.g., User Story, Sprint Task)
   - [ ] Epic (categorize tasks under relevant epics or as technical/miscellaneous)
-  - [ ] Assignee
+  -  ✅ Assignee
   - [ ] Views
-    - [ ] **Global**: Overview of all tasks across all sprints.
+    -  ✅ **Global**: Overview of all tasks across all sprints.
     - [ ] **Sprint View**: Focused view on the current sprint’s backlog and tasks.
     - [ ] **Planning**: View for sprint planning, including backlogs and "user stories" filtered.
-    - [ ] **Me**: Personalized view showing tasks assigned to the individual.
+    -  ✅ **Me**: Personalized view showing tasks assigned to the individual.
 - [ ] Create initial product backlog items, ensuring they are well-defined and prioritized.
 
 ### Setup Figma
