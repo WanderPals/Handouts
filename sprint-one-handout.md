@@ -32,15 +32,15 @@ To help you with these, we have put together a checklist that will help you get 
 
 ### Setup Github
 
-- [ ] Set up a Github Organization.
-- [ ] Create a project repository for your application code.
-- [ ] Keep the repository public for when you will integrate SonarCloud.
+- ✅ Set up a Github Organization.
+- ✅ Create a project repository for your application code.
+- ✅ Keep the repository public for when you will integrate SonarCloud.
 - [ ] Ensure all team members have access.
 - [ ] Add your coaches to your github organization.
   - [ ] Give them `maintain` access :) 
 - [ ] Setup Branch Protection Rules on your Github Repo.
   - [ ] Pushing to `main` or `master` is not allowed.
-  - [ ] Enable `Require pull request reviews before merging` with `1` review for approval.
+  - ✅ Enable `Require pull request reviews before merging` with `1` review for approval.
   - [ ] Enable `Require status checks to pass before merging` and ensure that your Android tests are added to the status checks
   - [ ] Enable `Do not allow bypassing the above settings`. None of the team members should be allowed to push unapproved changes.
 
@@ -48,13 +48,13 @@ To help you with these, we have put together a checklist that will help you get 
 
 A SCRUM board is your holy grail for implementing a collaborative workflow. As you will see in the semester, maintaining your SCRUM board diligently will give a significant boost to your efficiency as a team.
 
-- [ ] Create a Project under your Github organization for maintaining your SCRUM board.
-- [ ] Add columns for :
-  - [ ] Product Backlog
-  - [ ] Sprint Backlog
-  - [ ] In Development
-  - [ ] In Review
-  - [ ] Done in “Sprint #X”
+- ✅ Create a Project under your Github organization for maintaining your SCRUM board.
+- ✅ Add columns for :
+  - ✅ Product Backlog
+  - ✅ Sprint Backlog
+  - ✅ In Development
+  - ✅ In Review
+  - ✅ Done in “Sprint #X”
 - [ ] Add Properties For tickets on the board - 
   - [ ] Sprint (iteration)
   - [ ] Task Type (e.g., Frontend, Backend, Figma, etc.)
@@ -70,8 +70,8 @@ A SCRUM board is your holy grail for implementing a collaborative workflow. As y
 
 ### Setup Figma
 
-- [ ] Create a figma project and share with the rest of the team. 
-- [ ] Ensure everyone has access to Figma and link it in the project’s README.
+- ✅ Create a figma project and share with the rest of the team. 
+- ✅ Ensure everyone has access to Figma and link it in the project’s README.
 - [ ] Ensure all team members have access to the figma, and are able to create their own forks of it, for when they need to get exact styling and fonts.
   - Having their own figma forks out of sync is a common mistake that teams often make in the beginning. Please try to avoid this anti-pattern.
 > [!WARNING]
@@ -81,16 +81,16 @@ A SCRUM board is your holy grail for implementing a collaborative workflow. As y
 
 - [ ] Setup a test running CI for running tests for your project. 
   - To help you with this, we have setup a sample Android Project repository [here](https://github.com/swent-epfl/Android-Sample). You are welcome to refer to it for inspiration.
-- [ ] Integrate [SonarCloud](https://docs.sonarsource.com/sonarcloud/getting-started/github/) for code quality checks.
+- ✅ Integrate [SonarCloud](https://docs.sonarsource.com/sonarcloud/getting-started/github/) for code quality checks.
 > [!NOTE]
 > SonarCloud is free for public repos.
 
 ### Project Initialization
 
-- [ ] Initialize the project repository with a basic android app skeleton.
+- ✅ Initialize the project repository with a basic android app skeleton.
   - Your bootcamp code can be a good starting point for this as well.
   - We have provided a sample project repository [here](https://github.com/swent-epfl/Android-Sample). 
-- [ ] Find and add a good `.gitignore` for your Android Project.
+- ✅ Find and add a good `.gitignore` for your Android Project.
 - [ ] Make sure everyone has the common project running locally.
 - [ ] Set up Firebase, including API keys.
 - [ ] Add deploy secrets to your repo.
