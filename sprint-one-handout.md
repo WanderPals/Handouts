@@ -79,7 +79,7 @@ A SCRUM board is your holy grail for implementing a collaborative workflow. As y
 
 #### CI Setup
 
-- [ ] Setup a test running CI for running tests for your project. 
+- ✅ Setup a test running CI for running tests for your project. 
   - To help you with this, we have setup a sample Android Project repository [here](https://github.com/swent-epfl/Android-Sample). You are welcome to refer to it for inspiration.
 - ✅ Integrate [SonarCloud](https://docs.sonarsource.com/sonarcloud/getting-started/github/) for code quality checks.
 > [!NOTE]
