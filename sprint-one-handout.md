@@ -36,7 +36,7 @@ To help you with these, we have put together a checklist that will help you get 
 - ✅ Create a project repository for your application code.
 - ✅ Keep the repository public for when you will integrate SonarCloud.
 - ✅ Ensure all team members have access.
-- [ ] Add your coaches to your github organization.
+- ✅ Add your coaches to your github organization.
   - [ ] Give them `maintain` access :) 
 - [ ] Setup Branch Protection Rules on your Github Repo.
   - [ ] Pushing to `main` or `master` is not allowed.
@@ -59,12 +59,12 @@ A SCRUM board is your holy grail for implementing a collaborative workflow. As y
   -  ✅ Sprint (iteration)
   -  ✅ Task Type (e.g., Frontend, Backend, Figma, etc.)
   -  ✅ Nature (e.g., User Story, Sprint Task)
-  - [ ] Epic (categorize tasks under relevant epics or as technical/miscellaneous)
+   - ✅ Epic (categorize tasks under relevant epics or as technical/miscellaneous)
   -  ✅ Assignee
-  - [ ] Views
+  - ✅ Views
     -  ✅ **Global**: Overview of all tasks across all sprints.
-    - [ ] **Sprint View**: Focused view on the current sprint’s backlog and tasks.
-    - [ ] **Planning**: View for sprint planning, including backlogs and "user stories" filtered.
+    - ✅ **Sprint View**: Focused view on the current sprint’s backlog and tasks.
+    - ✅ **Planning**: View for sprint planning, including backlogs and "user stories" filtered.
     -  ✅ **Me**: Personalized view showing tasks assigned to the individual.
 - [ ] Create initial product backlog items, ensuring they are well-defined and prioritized.
 
