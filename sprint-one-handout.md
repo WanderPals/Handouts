@@ -37,12 +37,12 @@ To help you with these, we have put together a checklist that will help you get 
 - ✅ Keep the repository public for when you will integrate SonarCloud.
 - ✅ Ensure all team members have access.
 - ✅ Add your coaches to your github organization.
-  - [ ] Give them `maintain` access :) 
-- [ ] Setup Branch Protection Rules on your Github Repo.
-  - [ ] Pushing to `main` or `master` is not allowed.
+  - ✅ Give them `maintain` access :) 
+- ✅ Setup Branch Protection Rules on your Github Repo.
+  - ✅ Pushing to `main` or `master` is not allowed.
   - ✅ Enable `Require pull request reviews before merging` with `1` review for approval.
-  - [ ] Enable `Require status checks to pass before merging` and ensure that your Android tests are added to the status checks
-  - [ ] Enable `Do not allow bypassing the above settings`. None of the team members should be allowed to push unapproved changes.
+  - ✅ Enable `Require status checks to pass before merging` and ensure that your Android tests are added to the status checks
+  - ✅ Enable `Do not allow bypassing the above settings`. None of the team members should be allowed to push unapproved changes.
 
 ### Setting up a SCRUM Board
 
