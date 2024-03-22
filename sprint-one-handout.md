@@ -72,7 +72,7 @@ A SCRUM board is your holy grail for implementing a collaborative workflow. As y
 
 - ✅ Create a figma project and share with the rest of the team. 
 - ✅ Ensure everyone has access to Figma and link it in the project’s README.
-- [ ] Ensure all team members have access to the figma, and are able to create their own forks of it, for when they need to get exact styling and fonts.
+- ✅ Ensure all team members have access to the figma, and are able to create their own forks of it, for when they need to get exact styling and fonts.
   - Having their own figma forks out of sync is a common mistake that teams often make in the beginning. Please try to avoid this anti-pattern.
 > [!WARNING]
 > It is important to note that working solely on figma and design for the entire semester (or even for an entire Milestone is unacceptable and will be penalized in this course). Figma work is important and part of the evaluation, however doing _only figma_ will do more harm than good. 
@@ -91,8 +91,8 @@ A SCRUM board is your holy grail for implementing a collaborative workflow. As y
   - Your bootcamp code can be a good starting point for this as well.
   - We have provided a sample project repository [here](https://github.com/swent-epfl/Android-Sample). 
 - ✅ Find and add a good `.gitignore` for your Android Project.
-- [ ] Make sure everyone has the common project running locally.
-- [ ] Set up Firebase, including API keys.
+- ✅ Make sure everyone has the common project running locally.
+- ✅ Set up Firebase, including API keys.
 - [ ] Add deploy secrets to your repo.
 > [!WARNING]
 > Do not check-in API keys into your VCS. There should be a `.env` file in your `.giignore` that prevents accidental pushes, and you should use that file to store them when developing locally.
@@ -101,9 +101,9 @@ A SCRUM board is your holy grail for implementing a collaborative workflow. As y
 
 The below tasks, in addition to the checklist above, are given to help you with the plan (pt2 mentioned above).
 
-- [ ] Start developing wireframes on Figma for the landing screen to outline the user interface and experience.
+- ✅ Start developing wireframes on Figma for the landing screen to outline the user interface and experience.
   - It will be good to have at least the initial few screens designed on figma so that you can work on them in Sprint 2. 
-- [ ] Implement Google Authentication for your application.
+- ✅ Implement Google Authentication for your application.
 
 ## Standup Meetings
 
@@ -130,8 +130,8 @@ The conclusion of Sprint 1 will be a collaborative session with the coaches on F
 
 _[22.03.2024]_
 
-- [ ] Meet your coaches in person; team introduction :) 
-- [ ] Go over the minutes of the standup meeting.
-- [ ] Review the work finished in Sprint 1 with coaches; move tickets to "Done in Sprint #1".
+- ✅ Meet your coaches in person; team introduction :) 
+- ✅ Go over the minutes of the standup meeting.
+- ✅ Review the work finished in Sprint 1 with coaches; move tickets to "Done in Sprint #1".
 - [ ] Conduct and document Sprint Retrospective; add it to the GitHub Wiki.
 - [ ] Plan Sprint 2 with your coaches.
