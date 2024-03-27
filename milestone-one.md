@@ -18,7 +18,7 @@
 	* User enters trip details (name, date range) and invites fellow travelers via email or app username, which creates a group linked to that specifc trip.
 
 	* [ ] Create the Overview screen (SP2: Lorin)
-	* [ ] Navigation actions and navigation Bottom Bar (SP2: Matvey)
+	* [x] Navigation actions and navigation Bottom Bar (SP2: Matvey)
 	* [ ] Creating Trip Creation Screen with inputs (SP2: Matvey)
 	* [x] Create DataClasses (SP2 : Anton)
 	* [ ] Link Trips Creating Screen to Dataclasses
